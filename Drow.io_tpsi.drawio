@@ -1,1 +1,46 @@
-<mxfile host="Chrome" modified="2021-02-23T08:32:26.356Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.3.0" etag="aMr9BYFM699b8mNacEhp" type="device"><diagram id="Nd7VK9dAKtzq429VEIao" name="Pagina-1">7Vlbb9owFP41aNtDUW4k8FggtEgtQ4N1ezXEJF6dODLmtl+/48QJSUy1VYK12milyP58Oz7fd+yT0LIH8f6OozR6ZAGmLcsI9i172LKsnuPCUwKHHPCsTg6EnAQ5ZB6BGfmJFWgodEMCvK51FIxRQdI6uGRJgpeihiHO2a7ebcVofdUUhVgDZktEdfQbCUSUo13LO+L3mIRRsbLp9vKWGBWd1U7WEQrYrgLZfssecMZEXor3A0yl7wq/5ONGL7SWhnGciD8ZENx+d3o/Vp3+Kn7e4cPSScTNjZpli+hGbVgZKw6FB7aYCwIOeUALTKdsTQRhCTQtmBAsbtn9osMtJaFsECwFNBIxhYoJxXLnBlQCtI5woCprwdlz6VjVN5ULx/tQ6qmNkoAzErQFWljlgAGjjGfW2UtD/st5CQf+c9MSxuWEfbU5sA/vX/SaWXIBGsYsxoIfoEsxQI041GW5q2jBUBKPKjroFB2R0l9YznykCAqKpVcw1tUYu4eZNdaq7q/5LGEJdOmvCKUVNxqG1xu6gNMGy0vwE+YVlpsyiEkQyEVfkAFStXKeFUuECnNTMso2gpIEzCviN9NFipYkCedyiuGNq4ZV7B1lfyf0AnbhGKXtSDrlLArwnJoCPF0BbtfQFWD3LqUA074G7auC1nXePGpNV+NsPBl9BmToP8Bz+nUyz2pjeIwnc/+LP5v5LctFseQlWazTzDUuBVP7Cw6lUJY+jh8fb+/GExgGhhlP46EP0wzm/mw+/nQ9FBqHQn7Zn0NhrtE4FHSFlVhVYY5xMYX1rqfC665yEPhbHwtFblghbRoxwa6R24zczCtnkkE9drsncjrTOhG73sVUoGfhT/DWc1VBUwXbzCtnUUGn++5UYOkpQrK6iqApAiKdchYN2J13pwFH08CIJEiOm8rcRc//iPz2wXEApMmvLFk1ks8ISdlsCd2kKZI3ikE/oDS9JoWXSwq9upxMq3fiXbH3V98VLf29A/bbNjUVwK5FI9X7nRgUpPHWpLfkfReBy2dAmFxzByQAxtkmCcok8hwkOHUWnBMkOCc4sC5GgXeSAj07/3cosBqBUB6ib8aB/tVMcmDrB+p/xIp34ro7EytQPX7Yztoqvw7Y/i8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-24T08:06:37.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="NENucreAhUSOoWIPNaDy" version="14.4.2" type="github">
+  <diagram id="Nd7VK9dAKtzq429VEIao" name="Pagina-1">
+    <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dAX49jf5Bfmkweyc4nt--1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" parent="1" vertex="1">
+          <mxGeometry x="11" y="10" width="806" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--8" value="Homepage&lt;br&gt;(Dove verrà scannerizzato il codice QR)" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.home;" parent="1" vertex="1">
+          <mxGeometry x="74" y="70" width="680" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" parent="1" vertex="1">
+          <mxGeometry x="11" y="640" width="806" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--16" value="INFO DEL PUNTO DI INTERESSE&amp;nbsp;&lt;br&gt;(IMMAGINI, VIDEO,TESTO)" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.page;" parent="1" vertex="1">
+          <mxGeometry x="60" y="700" width="700" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" parent="1" vertex="1">
+          <mxGeometry x="11" y="1230" width="806" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--24" value="Final Page&lt;br&gt;(i crediti di chi ha sviluppato l&#39;app)" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.page;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1290" width="690" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--26" value="pag.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--27" value="pag.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dAX49jf5Bfmkweyc4nt--28" value="pag.3&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0kCCCqDNKZ5NVkAYCI-1" value="Photo" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.photo;" vertex="1" parent="1">
+          <mxGeometry x="90" y="800" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0kCCCqDNKZ5NVkAYCI-2" value="Info" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.info;" vertex="1" parent="1">
+          <mxGeometry x="330" y="800" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oo0kCCCqDNKZ5NVkAYCI-3" value="Video" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.video;" vertex="1" parent="1">
+          <mxGeometry x="560" y="800" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
