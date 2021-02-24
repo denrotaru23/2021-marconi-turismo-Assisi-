@@ -5,7 +5,9 @@ Piano di indirizzamento con IP pubblci e ping (3 Punti)
 Creazione della pagina base 
 
 -implementazione wireframe 
+
 -implementazione html 
+
 (3 Punti)
 
 
