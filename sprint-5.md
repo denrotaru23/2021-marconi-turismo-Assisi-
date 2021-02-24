@@ -1,5 +1,5 @@
 # Storia 1
-Piano di indirizzamento con IP pubblci e ping (3 Punti)
+Piano di indirizzamento usando per Internet IP pubblici e ping tra tablet e server (3 Punti)
 
 # Storia 2 
 Creazione della pagina base: 
