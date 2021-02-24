@@ -2,7 +2,7 @@
 Piano di indirizzamento con IP pubblci e ping (3 Punti)
 
 # Storia 2 
-Creazione della pagina base 
+Creazione della pagina base: 
 
 -implementazione wireframe 
 
