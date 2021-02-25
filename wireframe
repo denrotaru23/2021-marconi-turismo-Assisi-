@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T20:12:13.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="JtH3egjQe9xJUF1gUzvU" type="github"><diagram id="Abg0dcmeba9eZb5Bolgm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-25T20:59:32.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="tPW-6Ay7pUXHfVzFwgPc" version="14.4.2" type="github">
+  <diagram id="Abg0dcmeba9eZb5Bolgm" name="Page-1">
+    <mxGraphModel dx="1019" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mRyqF5tE418-neRriN1N-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-450" width="686" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-10" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="218" y="-400" width="590" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-11" value="Basilica di San Francesco D&#39;Assisi" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/humano2/128x128/apps/synfig_icon.png" vertex="1" parent="1">
+          <mxGeometry x="463" y="-150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/humano2/128x128/apps/synfig_icon.png" vertex="1" parent="1">
+          <mxGeometry x="660" y="-150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/humano2/128x128/apps/synfig_icon.png" vertex="1" parent="1">
+          <mxGeometry x="270" y="-150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-15" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.video_play;gradientDirection=south;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-310" width="410" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-17" value="Descrizione" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-50" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-18" value="Descrizione" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="473" y="-50" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mRyqF5tE418-neRriN1N-19" value="Descrizione" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-50" width="80" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
