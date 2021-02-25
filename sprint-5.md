@@ -6,7 +6,7 @@ Creazione della pagina base:
 
 -implementazione wireframe 
 
--implementazione html 
+-implementazione html di una parte della pagina
 
 (3 Punti)
 
