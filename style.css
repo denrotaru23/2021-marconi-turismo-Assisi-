@@ -2,20 +2,23 @@
   display: flex;
   align-items:center;
   margin-left: 50px;
-}
-.image{
-  
-  width: 500px;
+  padding: 30px;
 }
 .video{
   float:center;
-  padding: 80px;
-  width: 600px;
-  height: 400px;
+  padding:50px;
+  width: 500px;
+  
+}
+img{
+  width:300px;
 }
 .location{
   display: inline-block;
-  width: 30%;
-  margin-left:5%;
-  vertical-align:middle;
+  width: 50%;
+  margin-left: 5%;
+}
+.percentrare{
+  width::100%;
+  text-align:center;
 }
