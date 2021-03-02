@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  align-items:center;
+  margin-left: 50px;
+}
+.image{
+  
+  width: 500px;
+}
+.video{
+  float:center;
+  padding: 80px;
+  width: 600px;
+  height: 400px;
+}
+.location{
+  display: inline-block;
+  width: 30%;
+  margin-left:5%;
+  vertical-align:middle;
+}
