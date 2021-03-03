@@ -13,3 +13,9 @@ Creazione della pagina base:
 
 
 Punti totali: 6
+
+# Review 3 marzo 2021
+- storia 1: successo
+- storia 2: successo
+
+Punti: 6/6 100%
