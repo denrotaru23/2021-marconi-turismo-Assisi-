@@ -1,3 +1,9 @@
-# Sprint6
+# Sprint 6
 
-- Creazione file Json che contiene i dati che dovranno essere dinamici 
+Bozza della pagina con back-end e front-end separati:
+
+-creazione del file JSON con gli elementi dinamici della pagina
+
+-crezione file  JAVASCRIPT
+
+-creazione file php 
