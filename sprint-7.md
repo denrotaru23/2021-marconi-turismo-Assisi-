@@ -6,4 +6,4 @@ Separazione backend frontend :
 
 - modificato il file index.php (2 punti)
 
-- creazione file java script:
+
