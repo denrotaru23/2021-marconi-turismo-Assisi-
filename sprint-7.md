@@ -10,3 +10,8 @@ Separazione backend e frontend :
 
 Referenti: Roberta Moracchioli, Aurora Stefanini, Denisa Rotaru, Mirko De Paolis
 
+# Review
+-  1: OK
+-  2: OK
+-  3: KO
+4/6 = 66%
