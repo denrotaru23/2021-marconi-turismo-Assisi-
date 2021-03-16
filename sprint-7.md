@@ -8,3 +8,5 @@ Separazione backend e frontend :
 
 - provare ad aggiungere gli elementi dinamici nel file Javascript (2 punti)
 
+Referenti: Roberta Moracchioli, Aurora Stefanini, Denisa Rotaru, Mirko De Paolis
+
