@@ -6,5 +6,5 @@ Separazione backend e frontend :
 
 - modificato il file index.php (2 punti)
 
--provare ad aggiungere gli elementi dinamici nel file Javascript (2 punti)
+- provare ad aggiungere gli elementi dinamici nel file Javascript (2 punti)
 
