@@ -4,7 +4,7 @@
   margin-left: 50px;
   padding: 30px;
 }
-.movie{
+.menu_movie{
   float:center;
   padding:50px;
   width: 500px;
@@ -19,9 +19,10 @@ img{
   margin-left: 5%;
 }
 .titolo{
-  width::100%;
+  width::100% ;
   text-align:center;
 }
+
 .flexcontainer {
   display: flex;
   flex-wrap: wrap;
