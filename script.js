@@ -33,9 +33,9 @@ let onFail = function (error) {
   console.log(error);
 }
 let init = function () {
- $.getJSON("data.json")
+ //$.getJSON("data.json")
     .done(create_dyn_card)
    .fail(onFail);
-//$.getJSON("data.php").done(create_dyn_card);
+//$.getJSON("index.php").done(create_dyn_card);
 }
 $(document).ready(init)
